@@ -1,5 +1,8 @@
 # Web 开发好文收集
 
+>
+在网上发现的一些不错的文章
+
 ### 一、浏览器端
 * React.js 2016最佳实践  
 [http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
