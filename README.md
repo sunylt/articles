@@ -20,6 +20,9 @@
 * RESTful API 设计最佳实践   
 [https://www.oschina.net/translate/best-practices-for-a-pragmatic-restful-api](https://www.oschina.net/translate/best-practices-for-a-pragmatic-restful-api)
 
+* JavaScript 代码整洁之道
+[http://www.zcfy.cc/article/clean-code-javascript-readme-md-at-master-ryanmcdermott-clean-code-javascript-github-2273.html](http://www.zcfy.cc/article/clean-code-javascript-readme-md-at-master-ryanmcdermott-clean-code-javascript-github-2273.html)
+
 
 ### 二、服务器端
 
